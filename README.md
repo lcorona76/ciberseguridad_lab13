@@ -54,4 +54,4 @@ docker start juice-shop
 ```
 
 
-Always pull the latest imag
+Always pull the latest image
