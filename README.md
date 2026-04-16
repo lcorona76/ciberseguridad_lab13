@@ -33,7 +33,7 @@ Parameters:
 
  - http://localhost:3000
 
-(If using Docker Machine on macOS/Windows, use http://192.168.99.100:3000 instead.)
+(If using Docker Machine on macOS/Windows, use http://<IP address>:3000 instead.)
 
 ## Manage the Container
 
