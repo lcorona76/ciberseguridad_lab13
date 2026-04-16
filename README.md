@@ -23,11 +23,10 @@ Once Docker is ready, pull and run the Juice Shop container:
 ```Bash
 docker pull bkimminich/juice-shop
 docker run -d -p 3000:3000 --name juice-shop bkimminich/juice-shop
-
--d runs in detached mode.
-
--p 3000:3000 maps container port 3000 to your host.
 ```
+Parameters:
+-d runs in detached mode.
+-p 3000:3000 maps container port 3000 to your host.
 --name juice-shop names the container for easy management.
 
 ## Access it in your browser:
