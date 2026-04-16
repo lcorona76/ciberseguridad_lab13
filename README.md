@@ -33,11 +33,11 @@ Parameters:
 
  - http://localhost:3000
 
-(If using Docker Machine on macOS/Windows, use http://<IP address>:3000 instead.)
+(If using Docker Machine on macOS/Windows, use http://(IP address):3000 instead.)
 
 ## Manage the Container
 
-Check if running:
+ - Check if running:
 ```Bash
 docker ps
 ```
@@ -46,7 +46,7 @@ docker ps
 ```Bash
 docker stop juice-shop
 ```
-Restart:
+- Restart:
 
 ```Bash
 docker start juice-shop
